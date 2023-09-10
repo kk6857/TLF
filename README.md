@@ -54,4 +54,5 @@ RoadStatus.exe A2
 ## Testing
 
 This application includes unit tests and E2E Tests. You can run the tests using Visual Studio's built-in test runner.
+The end-to-end (E2E) test requires the configuration of `YOUR_APP_ID` and `YOUR_API_KEY` for it to function correctly.
 
